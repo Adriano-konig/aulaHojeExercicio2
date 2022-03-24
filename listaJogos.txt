@@ -1,2 +1,3 @@
 jogo xadrez
  jogo: xadrez
+Leoplugged também joga xadrez!
